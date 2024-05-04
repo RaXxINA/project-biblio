@@ -1,5 +1,5 @@
 # Gestion de bibliothèque
-Realisee par :Et-thami rania de 2AP G7
+# Realisee par: Et-thami rania de 2AP G7
 Ce code en langage C constitue une application de gestion de bibliothèque avec une interface console. L'objectif principal est de permettre aux utilisateurs (utilisateurs réguliers et propriétaires de la bibliothèque) d'interagir avec le système pour effectuer diverses tâches liées à la gestion des livres et des utilisateurs.
 
 Fonctionnalités principales :
